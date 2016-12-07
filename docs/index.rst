@@ -79,3 +79,4 @@ Contents
    skill_shots
    carnival_games
    attractions
+   Download <download>
