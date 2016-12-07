@@ -37,3 +37,22 @@ Potential options:
   crazy to have a donut magnet that could be a helper to suck the ball through. :)
 
 Whatever it is, it should be satisfying to shoot.
+
+Skee Ball Option
+----------------
+
+If we do a skee ball option, it could look something like this:
+
+* Ring of targets.
+* If the ball hits a target, it bounces back and either falls into a slot in the front or back
+  down the ramp.
+* If the ball makes it through, it goes into the subway.
+* Ring of targets can have an LED ring behind them (and maybe they're translucent) for different effects.
+* Top front of machine has a 7-segment display. Maybe that's where the player's current ticket score is, or
+  maybe it tracks something else (total skee ball points or something)
+* Rotating red LED beacon on top of the machine for shots made.
+
+.. image:: images/skee_ball_front.png
+
+.. image:: images/skee_ball_side.png
+
