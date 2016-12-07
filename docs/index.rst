@@ -52,9 +52,10 @@ Other stuff
 * Deep fried stuff
 * Video mode for midway games, guess the weight, etc.
 * Monster trucks
+* The stage (with videos, music, bands, the contests, etc.)
 * Scrambler type ride, toy, it can spin with balls in it, and also open to release balls and open/close to accept them
-* Day and night modes /
-* Multiballs
+* Day and night modes
+* Multiballs (needs all styles)
 
    * Traditional
    * Add-a-ball
@@ -79,4 +80,5 @@ Contents
    skill_shots
    carnival_games
    attractions
+   main_toy
    Download <download>

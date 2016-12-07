@@ -1,7 +1,7 @@
 Skill Shots
 ===========
 
-*State Fair* has a mechanical sprint plunger (with auto launcher) which allows
+*State Fair* has a mechanical spring plunger (with auto launcher) which allows
 for several skill shot options.
 
 The plunger lane leads to the right ramp which loops around the back of the

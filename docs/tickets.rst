@@ -9,10 +9,11 @@ modes let you earn tickets, and some are things you need to spend tickets
 to do just to play. (Eventually you have to do everything to get to
 wizard mode.)
 
-THe number of tickets a player has at all times will be plainly
+The number of tickets a player has at all times will be plainly
 visible and as obvious as their score. Ideas currently are that it's
 either (1) a 7-segment display on the playfield down near the flippers,
-or (2) an EM-style score reel display in the backbox.
+or (2) an EM-style score reel display in the backbox. (Or both, since this
+machine is designed to be a tutorial for MPF!)
 
 The player starts with a certain number of tickets (operator
 configurable). Something like 4.
