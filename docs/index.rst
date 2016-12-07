@@ -1,40 +1,45 @@
 Welcome to State Fair Pinball!
 ==============================
 
-This repository is for the State Fair pinball machine, a new machine created by
-the people who are creating the `Mission Pinball Framework <http://missionpinball.org>`_.
+This repository is for the *State Fair Pinball* machine, a new machine currently being
+conceived by the people who are creating the `Mission Pinball Framework <http://missionpinball.org>`_
+(MPF).
 
-State Fair does not exist as a real machine (though it could, and we'll probably build
-on some day). The primary goal for this machine is for us to have a fun, original
-machine we can use for the MPF tutorial to show you how to build your own machine.
+The theme of the machine is a state fair. (Duh!) Think carnival games, demolition derbies,
+livestock judging, pie-eating contests, amusement rides, and deep-fried food.
 
-State Fair is an original machine, though the playfield is based on the Gottlieb's
-unreleased 1996 *Brooks 'n Dunn* machine, designed by Tim Seckel and Jon Norris. (We
-think BnD has a great layout and it was never produced, and we needed a solid base
-for State Fair, so that's why we chose that.)
+*State Fair Pinball* is designed to be a "teaching machine"—ultimately a complete game
+that we can use for the MPF tutorial.
 
-State Fair is not a retheme, as we've designed it from scratch for our needs and
-there are several changes from *Brooks 'n Dunn*, so really we just used that machine
-as a starting point.
+Of course it would be fun to actually build a physical *State Fair Pinball* machine—something
+we'll probably do at some point. Our goal is to not use any licensed content and to
+make all the plans, assets, designs, etc. available for free. So if you want to build
+your own (or use the base plans for your own) then you're free to.
 
 .. note::
 
    Everything here is just an early draft as our ideas come together. Lots will
    change, and we'd love your feedback too!
 
-The Theme
----------
+Playfield Design
+----------------
 
-*State Fair Pinball* is about a State Fair! Think carnival games, demolition derbies,
-livestock judging, pie-eating contests, and deep-fried food.
+While *State Fair Pinball* is an original machine, we based the playfield on
+Gottlieb's unreleased 1996 *Brooks 'n Dunn* (BnD) machine, designed by Tim Seckel and Jon
+Norris. We think BnD has a great layout and it was never produced, and we needed a solid base
+for *State Fair Pinball*, so we used the general layout as our starting point.
+
+That said, *State Fair Pinball* is not a retheme per se, as the LED inserts are different
+and we have made several changes. But you can definitely see that the starting point was BnD.
 
 Game Concepts & Objectives
 --------------------------
 
-The game is all about being at a state fair, and all the things in the game are
-state fair-type things.
+*State Fair Pinball* attempts to capture the experience of being at a state fair. All of
+the game modes are based on things you do at a fair, including riding attractions,
+playing carnival games, and eating food.
 
-There's a main concept of "tickets" (which are tracked per player, separate from score).
+One of the central concepts of the game is "tickets" (which are tracked per player, separate from score).
 Just like a real fair, you need tickets to do things, which you earn through game play.
 Several game modes are carnival games, which cost tickets to play, but also where you can
 win tickets which you can then use to do more things. (So everything you do costs tickets,
