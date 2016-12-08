@@ -42,6 +42,7 @@ later things. (More on tickets :doc:`here <tickets>`.)
 
    playfield
    backbox
+   backbox_wheel
 
 .. toctree::
    :titlesonly:
