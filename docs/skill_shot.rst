@@ -1,5 +1,5 @@
-Skill Shots
-===========
+Skill Shot
+==========
 
 *State Fair* has a mechanical spring plunger (with auto launcher) which allows
 for several skill shot options.

@@ -1,5 +1,5 @@
-Carnival Games
-==============
+Carnival Games (Modes)
+======================
 
 One of the main objectives of *State Fair* is to play carnival games to get tickets.
 Playing games themselves require tickets. The selected game is flashing, and you light
@@ -61,6 +61,12 @@ accessible to shots from the left flipper.
 
 Any balls drained are put back into play (to the left flipper), and this mode has a multiball ball
 save timer so the player has a set time of unlimited balls to make as many baskets at they can.
+
+Another option for this mode is that *only* the lower right flipper is enabled, which means
+all you do is shoot for baskets. So this means that balls will drain a lot, which is fine,
+because they will continue to be delivered to the left flipper. (This is nice because it
+shows off a flipper novelty mode. This could also be an operator-configurable option which
+will show off that functionality as well.)
 
 Tickets are awarded for each basket made as well as a bonus for hitting a certain number.
 

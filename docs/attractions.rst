@@ -1,5 +1,5 @@
-Fair Attractions
-================
+Fair Attractions (Modes)
+========================
 
 *State Fair* has lots of attractions that need to be played to get to
 wizard mode. All of the attractions take tickets to start, and most of
@@ -9,7 +9,7 @@ them you can win tickets.
 * Pie eating contest
 * Catch the escaped animals form the petting zoo
 
-Demolition derby
+Demolition Derby
 ----------------
 
 Smash other cars. Probably will use the kicking targets. You have to back

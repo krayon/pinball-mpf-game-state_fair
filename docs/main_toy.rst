@@ -1,5 +1,5 @@
-Main Toy (help needed!)
-=======================
+Main Toy (Skee Ball?)
+=====================
 
 *State Fair Pinball* will have some kind of main toy in the upper
 center-left. Hitting this toy will cause one of two (or three)

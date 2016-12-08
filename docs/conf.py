@@ -74,12 +74,11 @@ latex_elements = {
 
     }
 
-# Added "True" at the end to make Layex only use the TOC from index.rst
-# and not the other text content
+# Change final False to True to not include the index.rst in the PDF
 latex_documents = [
     (master_doc, 'StateFairPinball.tex',
      'State Fair Pinball Documentation',
-     'The Mission Pinball Framework Team', 'report', True),
+     'The Mission Pinball Framework Team', 'report', False),
 ]
 
 # latex_logo = '_static/images/mpf-logo-200.png'  # doesn't work with report class
