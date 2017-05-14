@@ -5,3 +5,5 @@ End of Ball Bonus
 * Highest scores on each carnival game (so if you play a game again and get a better score, it uses that one)
 * Total rides written (or total attractions / games started)
 * Bonus multiplier
+* Number of ribbons collected (with different levels for blue, red, and white)
+* Amount of food consumed

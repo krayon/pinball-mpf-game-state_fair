@@ -1,7 +1,7 @@
 Welcome to State Fair Pinball!
 ==============================
 
-This repository is for the *State Fair Pinball* machine, a new machine currently being
+This repository is for the *State Fair Pinball* (SFP) machine, a new machine currently being
 conceived by the people who are creating the `Mission Pinball Framework <http://missionpinball.org>`_
 (MPF).
 
@@ -11,10 +11,9 @@ livestock judging, pie-eating contests, amusement rides, and deep-fried food.
 *State Fair Pinball* is designed to be a "teaching machine"—ultimately a complete game
 that we can use for the MPF tutorial.
 
-Of course it would be fun to actually build a physical *State Fair Pinball* machine—something
-we'll probably do at some point. Our goal is to not use any licensed content and to
-make all the plans, assets, designs, etc. available for free. So if you want to build
-your own (or use the base plans for your own) then you're free to.
+Our goal is to not use any licensed content and to make all the plans, assets, designs, etc.
+available for free. So if you want to build your own (or use the base plans for your own),
+then you're free to.
 
 .. note::
 
@@ -33,28 +32,36 @@ but some things earn you tickets as well.)
 
 You get to the wizard mode by doing everything in at fair, so if you're good and you
 can earn lots of tickets quickly then you can move through all the modes, but if you're
-not as good you might have to play some modes a few times to earn enough tickets for the
-later things. (More on tickets :doc:`here <tickets>`.)
+not as good you might have to play some of the carnival games a few times to earn enough tickets for the
+later things. (More on tickets :doc:`here <concepts/tickets>`.)
+
+Since SFP is a teaching machine, we're going to try to add as much as we can into it. So some things might be over
+the top, but everything that's there is for the purpose of demonstrating how it could be done.
 
 .. toctree::
    :titlesonly:
-   :caption: The Machine
+   :caption: The Machine / Hardware
 
-   playfield
-   backbox
-   backbox_wheel
+   hardware/playfield
+   hardware/backbox
+   hardware/backbox_toy
+   hardware/electronics
 
 .. toctree::
    :titlesonly:
    :caption: Game Concepts, Rules & Modes
 
-   tickets
-   skill_shots
-   carnival_games
-   attractions
-   main_toy
-   multiballs
-   bonus
+   concepts/tickets
+   concepts/skill_shots
+   concepts/food
+   /midway_games/index
+   /attractions/index
+   concepts/multiballs
+   concepts/bonus
+   concepts/combos
+
+.. toctree::
+
    Download <download>
 
 Yet to figure out
@@ -67,7 +74,6 @@ including:
 * Deep fried stuff
 * Video modes
 * Monster trucks
-* The main stage (videos of bands, the contests, judging, etc.)
 * Day and night modes
 
 * Novelty flipper modes
@@ -83,4 +89,3 @@ including:
 * Modes you can play again and again
 * Modes you have to play multiple times
 * Modes you only do once and then complete
-* Super jets

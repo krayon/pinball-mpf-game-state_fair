@@ -8,4 +8,4 @@ Or this could be another type of carnival game? Maybe this is something like Pac
 lots of pins, with several channels with different prizes. (The labels for the prize channels should be
 interchangeable so operators can change which prizes and odds are available.)
 
-.. image:: images/pachinko.png
+.. image:: /images/pachinko.png
