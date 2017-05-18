@@ -12,3 +12,4 @@ them you can win tickets.
    pig_race
    tractor_pull
    pie_eating
+   monster_trucks

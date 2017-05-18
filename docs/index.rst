@@ -59,6 +59,12 @@ the top, but everything that's there is for the purpose of demonstrating how it 
    concepts/multiballs
    concepts/bonus
    concepts/combos
+   concepts/prize_booth
+   concepts/rides
+   concepts/wristband
+   concepts/zoltar
+   concepts/video_modes
+   concepts/wizard_mode
 
 .. toctree::
 
@@ -71,18 +77,7 @@ There are several other concepts which can be incorporated that we haven't figur
 including:
 
 * Ribbons & judging
-* Deep fried stuff
-* Video modes
-* Monster trucks
 * Day and night modes
-
-* Novelty flipper modes
-
-   * Weak
-   * No hold
-   * Reverse
-   * Invert (button push releases flipper)
-
 * Power outage mode. Could have a cool light show effect of colored lights
   blowing up with bright white flashes.
 * Mode stacking
