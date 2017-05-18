@@ -21,4 +21,4 @@ todo
    color_match
    quick_draw
    shooting_gallery
-   strong_man_pole
+   high_striker
